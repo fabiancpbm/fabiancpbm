@@ -8,6 +8,8 @@
 - 🤔 I’m looking for help with [`observability`]()
 - 💬 Ask me about [`java`]() [`sql`]() [`relational-algebra`]()
 
+---
+
 ### Languages and frameworks I've interacted
 
 <div>
@@ -35,6 +37,8 @@
 </div>
 
 <br><br>
+
+---
 
 ### Connect with me 🔗
 <div>
