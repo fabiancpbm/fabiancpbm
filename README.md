@@ -17,6 +17,8 @@
   
   <img align="left" alt="Clojure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="33px"/>
 
+  <img align="left" alt="Go" src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" height="33px"/>
+
   <img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="33px">
   
   <img align="left" alt="Arduino" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height="33px">
