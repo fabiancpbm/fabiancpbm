@@ -39,6 +39,8 @@
 
 <br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancpbm&langs_count=10)
+
 ---
 
 ### Connect with me 🔗
